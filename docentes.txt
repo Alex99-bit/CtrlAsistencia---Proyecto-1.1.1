@@ -1,0 +1,4 @@
+claudia	obregon	nieto	clau01	1234
+carlos	coronado	obregon	alexco	1234
+erick	zavala	herrera	erick	e11zh
+cesar	joaqyuin	fenix	ola ke ase	123

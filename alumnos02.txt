@@ -1,0 +1,26 @@
+14702	ITI	Argott	Castro	Raul Andres
+12311	ITI	Briones	De La Rosa	Yair
+11318	ITI	Camacho	Rodriguez	Manuel
+10891	ITI	Castillo	Jara	Edna Paola
+12023	ITI	Corpus	Ortega	Betzaida Mayte
+13827	ITI	Dominguez	Garcia	Isai Adriel
+14492	ITI	Espinoza	Escamilla	David
+11332	ITI	Fonseca	Calvillo	Rocio Guadalupe
+12631	ITI	Garcia	Butron	Abril Sinahi
+10821	ITI	Garcia	Lopez	Camila Alejandra
+12681	ITI	Gonzalez	Ferretiz	Karen Andrea
+12829	ITI	Herrera	Martinez	Juan Humberto
+10231	ITI	Loredo	Amaya	Benjamin
+13712	ITI	Martinez	Tovar	Edgar Ulises
+10367	ITI	Mata	Aldama	Edson Saul
+13909	ITI	Mendez	Hernandez	Oscar Andres
+10080	ITI	Morales	Diaz De Leon	Yesenia America
+11556	ITI	Portales	Perez	Raul Eduardo
+10894	ITI	Ramirez	Oramas	Betzy Daniela
+10031	ITI	Rodriguez	Espiricueta	Diana
+10356	ITI	Ruelas	Alfaro	Oscar Alfonso
+12512	ITI	Sanchez	Aleman	Victor Miguel
+13091	ITI	Sanchez	Lopez	Moises
+10681	ITI	Saucedo	Gonzalez	Angel Roberto
+14662	ITI	Silva	Ostiguin	Osvaldo Sebastian
+13045	ITI	Vazquez	Martinez	Arath

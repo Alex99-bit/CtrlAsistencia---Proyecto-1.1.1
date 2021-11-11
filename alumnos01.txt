@@ -1,0 +1,32 @@
+100000	1	1	ª	1	2
+170105	ITI	Hernandez	Badillo	Jose Federico	2
+170254	ITI	Saucedo	Gonzalez	Angel Roberto	2
+170335	ITEM	Vargas	Alvarado	Edgar David	2
+170408	ITI	Mitre	Lucio	Miguel	2
+170506	ITEM	Balderas	Gutierrez	Chayan	2
+170508	ITI	Trujillo	Carranco	Alexis	2
+170555	ITI	Zintzun	Medinilla	Octavio	2
+170650	ITI	Martinez	Alvarez	Christian Andres	1
+170707	ITI	Rodriguez	Uresti	Francisco Maximiliano	1
+170834	ITI	Coronado	Obregon	Carlos Alejandro	1
+170842	ITI	Zapata	Vazquez	Maria De Los Angeles	1
+171126	ITI	Salazar	Morua	Martha Stacy	1
+171211	ITI	Rodriguez	Bravo	Monserrat	1
+171513	ITI	Garcia	Aguila	Marco Antonio	1
+171687	ITI	Lopez	Gonzalez	Alan	1
+171694	ITI	Mendoza	Martinez	Omar Alejandro	1
+171715	ITI	Gonzalez	Ibarra	Claudia Alejandra	1
+171717	a	a		a	1
+171784	ITI	Sanchez	De La Rosa	Aldair	1
+171831	ITEM	Castillo	Perez	Cinthya Jacqueline	1
+171898	ITI	Hernandez	Chavarria	Luis	1
+172079	ITI	Rodriguez	Macias	Eduardo	1
+172155	ITI	Alvarado	Gonzalez	Sonia	1
+172347	ITI	Flores	Silva	Carlos Aaron	1
+172362	ITEM	Aguilar	Rangel	Diego Victor	1
+172394	ITI	Lopez	Menchaca	Emmanuel	1
+172626	ITI	Rodriguez	Bravo	Cesar Eduardo	1
+172646	ITI	Cortina	Garcia	Samuel Alejandro	1
+172687	ITI	Echevarria	Garcia	Miguel Angel	1
+172976	ITEM	Medina	Catano	Juan Manuel	1
+172993	ITEM	Meraz	Diaz	Gloria Esmeralda	1
